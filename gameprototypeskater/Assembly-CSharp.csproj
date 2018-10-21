@@ -65,16 +65,16 @@
     <Compile Include="Assets\player_movement.cs" />
     <Compile Include="Assets\PlayerHealth.cs" />
     <Reference Include="UnityEditor.StandardEvents">
-      <HintPath>/Users/brennanausloos/Desktop/gameprototypeskater/gameprototypeskater/Library/ScriptAssemblies/UnityEditor.StandardEvents.dll</HintPath>
+      <HintPath>/Users/brennanausloos/Desktop/prototype/gameprototypeskater/Library/ScriptAssemblies/UnityEditor.StandardEvents.dll</HintPath>
     </Reference>
     <Reference Include="Unity.TextMeshPro.Editor">
-      <HintPath>/Users/brennanausloos/Desktop/gameprototypeskater/gameprototypeskater/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
+      <HintPath>/Users/brennanausloos/Desktop/prototype/gameprototypeskater/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.PackageManagerUI.Editor">
-      <HintPath>/Users/brennanausloos/Desktop/gameprototypeskater/gameprototypeskater/Library/ScriptAssemblies/Unity.PackageManagerUI.Editor.dll</HintPath>
+      <HintPath>/Users/brennanausloos/Desktop/prototype/gameprototypeskater/Library/ScriptAssemblies/Unity.PackageManagerUI.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.TextMeshPro">
-      <HintPath>/Users/brennanausloos/Desktop/gameprototypeskater/gameprototypeskater/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
+      <HintPath>/Users/brennanausloos/Desktop/prototype/gameprototypeskater/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.AIModule">
       <HintPath>/Applications/Unity/Unity.app/Contents/Managed/UnityEngine/UnityEngine.AIModule.dll</HintPath>
